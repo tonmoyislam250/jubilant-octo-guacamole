@@ -1,5 +1,3 @@
-# Implement By - @VarnaX-279
-
 from string import ascii_letters
 from random import SystemRandom
 
